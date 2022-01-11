@@ -9,4 +9,4 @@ This repository contains various Machine learning models used in industry to pre
   - Data Visualization using MatplotLib
   - Simpler machine learning models (Linear Regression,Logistic Regression)
   - Recurrent Neural Networks / Long Short Term Memory Networks
-  - - ARIMA model to capture the trends,seasonality, forecast the prices and use as a baseline
+  - ARIMA model to capture the trends,seasonality, forecast the prices and use as a baseline
